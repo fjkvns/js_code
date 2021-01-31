@@ -1,0 +1,8 @@
+.inputs{
+    display: flex;
+    flex-direction: column;
+}
+.inputs input {
+    width: 400px;
+    margin-bottom: 15px;
+}
